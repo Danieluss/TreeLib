@@ -1,0 +1,8 @@
+#ifndef BRTREE_ORDER_HPP
+#define BRTREE_ORDER_HPP
+
+enum Order {
+    PREORDER, INORDER, POSTORDER
+};
+
+#endif //BRTREE_ORDER_HPP
